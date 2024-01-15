@@ -1,0 +1,28 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "njpwerner.autodocstring",
+    "naumovs.color-highlight",
+    "devcamp.devcampvsc",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "visualstudioexptteam.vscodeintellicode",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "ritwickdey.liveserver",
+    "yzhang.markdown-all-in-one",
+    "pkief.material-icon-theme",
+    "cweijan.vscode-mysql-client2",
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "alefragnani.project-manager",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "ms-ceintl.vscode-language-pack-es"
+  ]
+}
